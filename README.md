@@ -1,2 +1,2 @@
-# Quectel-U235-develop-board
+# Quectel　U235开发板测试代码
 U235开发板技术测试，包含基于NXP GUI guider的一个LVGL框架的microPython的demo
